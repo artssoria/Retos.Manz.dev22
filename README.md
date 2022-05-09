@@ -4,10 +4,10 @@
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦄 **Desarrollador/a:** *Arturo Soria*
+- 🐇 **Link a red social:** *https://twitter.com/ArturoRubnSori1?t=T4YxsCqZjdEIoO_rnu55xg&s=09*
+- 🦾 **Perfil:** *Bajo*
+- 💬 **Preparate para aprender y lograr llegar a los objetivos planeados**: *-*
 
 ## Observaciones
 
